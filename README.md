@@ -1,4 +1,5 @@
 # 0x1B. C - Sorting algorithms & Big O
+![BigO_img](https://cdn-media-1.freecodecamp.org/images/1*KfZYFUT2OKfjekJlCeYvuQ.jpeg)
 
 ## Resources
 
@@ -6,6 +7,8 @@
 - [Big O notation](https://alx-intranet.hbtn.io/rltoken/WRvrE2BaNVQFssHiUATTrw)
 - [Sorting algorithms animations](https://alx-intranet.hbtn.io/rltoken/ol0P7NbYVb5R31iOv4Q40A)
 - [15 sorting algorithms in 6 minutes](https://alx-intranet.hbtn.io/rltoken/_I0aEvhfJ66Xyob6dd9Utw) (**WARNING**: The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms)
+
+![Sorting_BigO_complexity](https://www.bigocheatsheet.com/img/big-o-cheat-sheet-poster.png)
 
 ## Objectives
 
