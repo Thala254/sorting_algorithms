@@ -21,7 +21,7 @@
 ## Tasks
 
 ### 0.Bubble sort
-![Bubble-sort with Hungarian("Csango") folk dance](https://www.youtube.com/watch?v=lyZQPjUT5B4)
+[![Bubble-sort with Hungarian("Csango") folk dance](https://img.youtube.com/vi/lyZQPjUT5B4/0.jpg)](https://www.youtube.com/watch?v=lyZQPjUT5B4)
 
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://alx-intranet.hbtn.io/rltoken/awhP8BhtkGi-lwmMc2-KAw) algorithm
 
