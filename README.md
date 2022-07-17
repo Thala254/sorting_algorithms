@@ -247,6 +247,7 @@ alex@/tmp/sort$
 ### 3.Quick sort
 
 [![Quick-sort with Hungarian(kukullomenti legenyes) folk dance](https://img.youtube.com/vi/ywWBy6J5gz8/0.jpg)](https://youtu.be/ywWBy6J5gz8)
+
 Write a function that sorts an array of integers in ascending order using the [Quick sort](https://alx-intranet.hbtn.io/rltoken/_pBTrH0Xyo4BRmQn4CtnMg) algorithm
 
 - Prototype: `void quick_sort(int *array, size_t size);`
