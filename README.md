@@ -88,6 +88,7 @@ alex@/tmp/sort$
 
 ### 1.Insertion sort
 [![Insert-sort with Romanian folk dance](https://img.youtube.com/vi/ROalU379l3U/0.jpg)](https://youtu.be/ROalU379l3U)
+
 Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://alx-intranet.hbtn.io/rltoken/GocxRKbPdsmERXeOHMCO2w) algorithm
 
 - Prototype: `void insertion_sort_list(listint_t **list);`
@@ -190,6 +191,8 @@ alex@/tmp/sort$
 
 ### 2.Selection sort
 
+[![Select-sort with Gypsy folk dance](https://img.youtube.com/vi/Ns4TPTC8whw/0.jpg)](https://youtu.be/Ns4TPTC8whw)
+
 Write a function that sorts an array of integers in ascending order using the [Selection](https://alx-intranet.hbtn.io/rltoken/SEbg0fBEraioQcl-igvUSw) sort algorithm
 
 - Prototype: `void selection_sort(int *array, size_t size);`
@@ -243,6 +246,7 @@ alex@/tmp/sort$
 
 ### 3.Quick sort
 
+[![Quick-sort with Hungarian(kukullomenti legenyes) folk dance](https://img.youtube.com/vi/ywWBy6J5gz8/0.jpg)](https://youtu.be/ywWBy6J5gz8)
 Write a function that sorts an array of integers in ascending order using the [Quick sort](https://alx-intranet.hbtn.io/rltoken/_pBTrH0Xyo4BRmQn4CtnMg) algorithm
 
 - Prototype: `void quick_sort(int *array, size_t size);`
