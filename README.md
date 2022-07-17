@@ -296,7 +296,8 @@ Write a function that sorts an array of integers in ascending order using the [S
   - `n+1 = n * 3 + 1`
   - `1, 4, 13, 40, 121, ...`
 - You’re expected to print the `array` each time you decrease the interval (See example below).
-  **No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap**
+
+**No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap**
 
 ```
 alex@/tmp/sort$ cat 100-main.c
