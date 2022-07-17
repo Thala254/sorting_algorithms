@@ -87,7 +87,7 @@ alex@/tmp/sort$
 ```
 
 ### 1.Insertion sort
-
+[![Insert-sort with Romanian folk dance](https://img.youtube.com/vi/ROalU379l3U/0.jpg)](https://youtu.be/ROalU379l3U)
 Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://alx-intranet.hbtn.io/rltoken/GocxRKbPdsmERXeOHMCO2w) algorithm
 
 - Prototype: `void insertion_sort_list(listint_t **list);`
