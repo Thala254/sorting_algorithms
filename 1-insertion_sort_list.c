@@ -34,7 +34,7 @@ void swap_nodes(listint_t **node, listint_t **list)
  */
 void insertion_sort_list(listint_t **list)
 {
-        listint_t *head, *tmp, *tmp2;
+	listint_t *head, *tmp, *tmp2;
 
 	if (!list || !(*list) || (!((*list)->prev) && !((*list)->next)))
 		return;

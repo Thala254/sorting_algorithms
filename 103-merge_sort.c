@@ -41,7 +41,7 @@ void merge(int *array, int *buff, int minL, int maxL, int minR, int maxR)
 			}
 			else
 			{
-				array[k] = buff[j]; 
+				array[k] = buff[j];
 				k++;
 				j++;
 			}

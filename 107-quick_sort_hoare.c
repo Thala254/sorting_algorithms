@@ -42,7 +42,7 @@ int partial_sort(int *array, int min, int max, size_t size)
 }
 
 /**
- * quicksort -  sorts an array of integers in ascending order 
+ * quicksort -  sorts an array of integers in ascending order
  * using the Quick sort algorithm Lomuto partition scheme
  * @array: data to sort
  * @min: Left wall

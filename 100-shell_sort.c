@@ -11,14 +11,14 @@
  */
 void swap_entries(int *array, int i, int j)
 {
-        int tmp;
+	int tmp;
 
-        if (array[i] != array[j])
-        {
-                tmp = array[i];
-                array[i] = array[j];
-                array[j] = tmp;
-        }
+	if (array[i] != array[j])
+	{
+		tmp = array[i];
+		array[i] = array[j];
+		array[j] = tmp;
+	}
 }
 
 /**
