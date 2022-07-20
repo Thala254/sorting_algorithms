@@ -6,7 +6,6 @@
  * @array: array to sort
  * @i: first entry
  * @j: second entry
- * @size: size of array
  * Return: No Return
  */
 void swap_entries(int *array, int i, int j)
